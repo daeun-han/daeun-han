@@ -31,6 +31,7 @@
 
 ### 📈 Contribution History
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daeun-han&theme=radical&hide_border=true" width="47%" />
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daeun-han&theme=radical&hide_border=true&area=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daeun-han&currStreakNum=8A2BE2&sideNums=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0&fire=BA55D3&background=00000000&hide_border=true" width="47%" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daeun-han&bg_color=00000000&color=8A2BE2&line=9370DB&point=FFFFFF&area=true&hide_border=true" width="49%" />
 </p>
