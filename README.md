@@ -1,10 +1,5 @@
 ## Hi there, I'm Da-eun 👋
 
-### 🚀 About Me
-- 💡 사용자의 경험을 **수치로 증명**하는 것에 즐거움을 느낍니다.
-- 🔍 단순 기능 구현을 넘어 **성능 최적화**와 QA적 관점의 **테스트 설계**를 고려합니다.
-
-
 ### 🛠️ Tech Stack & Interests
 
 **Backend**
