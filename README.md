@@ -1,7 +1,6 @@
-## Hi there, I'm Da-eun 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Hi+there%2C+I'm+Da-eun+han+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### 🛠️ Tech Stack & Interests
-
 **Backend**
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
