@@ -4,7 +4,7 @@
 ### 🛠️ Tech Stack & Interests
 **Backend**
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mockito-78A641?style=flat"/>
   <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=flat&logo=testcontainers&logoColor=white"/>
-  <img src="https://img.shields.io/badge/P6Spy-Gray?style=flat"/>
-  <img src="https://img.shields.io/badge/Explain%20Analyze-Blue?style=flat"/>
+  <img src="https://img.shields.io/badge/P6Spy-555555?style=flat"/>
+  <img src="https://img.shields.io/badge/Explain%20Analyze-1F6FEB?style=flat"/>
 </p>
 
 ---
